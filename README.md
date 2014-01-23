@@ -1,4 +1,4 @@
-sicCubeMonitoring
+AsicCubeMonitoring
 ==================
 
 Some basic scripts I put together to monitor ASIC Miner Cubes
