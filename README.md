@@ -8,4 +8,6 @@ While fully functional (on my network, YMMV), they are still works in progress a
 To use make sure arp-ping is installed, your mail works, and that whatever user you are running them as can password-lessly sudo arp-ping (unless your distro doesnt require it, in which case you need to edit out the sudo statement).
 
 
+If you find them useful, please feel free to donate :D
 
+BTC: 1np8AYHZ58QcG6RzJPLT6Y4T28rHKUmGy
